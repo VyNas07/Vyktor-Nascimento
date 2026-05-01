@@ -14,11 +14,15 @@ Recife, PE — Brasil.
 
 ## O que estou construindo
 
-**[SimplEx](https://www.linkedin.com/in/vyktor-nascimento/)** — em desenvolvimento
-> Assistente de IA para exportação B2B. Automatiza classificação NCM/HS Code,
-> cálculo de tarifas TARIC e mapeamento de certificações para PMEs brasileiras
-> que exportam para a Europa. Stack: Python · FastAPI · Google Gemini · ChromaDB
-> · sentence-transformers. 130+ testes automatizados.
+**[Licitei](https://github.com/VyNas07/Licitei)** — em desenvolvimento · Tech Lead & Gerente de Projeto
+> Plataforma que democratiza o acesso de MEIs às licitações públicas brasileiras.
+> Consome a API do PNCP em tempo real via pipeline ETL com paginação completa e
+> retry exponencial (962 registros em execução única). Assistente de IA via FastMCP
+> interpreta editais em linguagem natural, com camada anti-prompt injection integrada
+> à revisão de segurança. Orquestração com Prefect, dashboard Streamlit e schema
+> relacional no Supabase. Time de 7 pessoas · 6 disciplinas acadêmicas integradas.
+> Stack: Python · FastMCP · MongoDB Atlas · Supabase · Elysia · React Native · Prefect.
+
 
 **[Keiza Capital](https://www.linkedin.com/company/keiza-capital)** — MVP validado
 > Fintech blockchain conectando PIX a stablecoins para pagamentos internacionais
@@ -33,11 +37,10 @@ Recife, PE — Brasil.
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
